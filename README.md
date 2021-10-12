@@ -36,7 +36,7 @@ Individual Goals
 
 --------------------------------------------------------------------------------
 ### Agile Project Management
-Team IoTSec uses trello to manage user stories and report on development progress
+Team IoTSec uses trello to manage user stories and report on development progress.
 [IoTSec Trello Board](https://trello.com/b/7Tt7IJXx/sprint-board)
 
 --------------------------------------------------------------------------------
