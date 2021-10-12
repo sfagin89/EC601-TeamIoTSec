@@ -13,7 +13,7 @@ The combination of a large, vulnerable attack surface via the internet, and the 
 ### Goals
 --------------------------------------------------------------------------------
 
-Overall Goal: To investigage security vulnerabilies in IoT devices. Develop methods that can be used to effectively attack them. Then use these attacks to develop a better way to secure IoT devices.
+Overall Goal: To investigate security vulnerability in IoT devices. Develop methods that can be used to effectively attack them. Then use these attacks to develop a better way to secure IoT devices.
 
 Individual Goals
 1. Determine common security weaknesses for IoT devices
