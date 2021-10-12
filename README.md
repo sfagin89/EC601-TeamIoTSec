@@ -5,7 +5,7 @@ Github Repo for EC601 IoT Security Project
 ### Problem Statement - Why IoT Security Matters
 --------------------------------------------------------------------------------
 
-In many industries, automotive and healthcare for example, there is an increasing reliance on IoT devices for day to day business. Unfortunately, there often is not a proportional investment of resources or funding to secure these devices. IoT devices are particularly vulnerable to remote hacking attacks due to their internet-supported connectivity. Additionally, as they tend to be smaller in size, with reduced computing power, IoT devices often are unable to effectively integrate advanced firewalls or antivirus software.
+In many industries, automotive and healthcare for example, there is an increasing reliance on IoT devices for day to day business. In healthcare, IoT devices are now used for everything from Robotic surgery and ingestible sensors, to Depression and mood monitoring through "Mood-aware" IoT devices. Unfortunately, there often is not a proportional investment of resources or funding to secure these devices. IoT devices are particularly vulnerable to remote hacking attacks due to their internet-supported connectivity. Additionally, as they tend to be smaller in size, with reduced computing power, IoT devices often are unable to effectively integrate advanced firewalls or antivirus software.
 
 The combination of a large, vulnerable attack surface via the internet, and the dependence of many companies increasing the potential damage a security breach could have, make IoT devices a common and appealing target for hackers.
 
