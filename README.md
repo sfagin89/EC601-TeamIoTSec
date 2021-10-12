@@ -45,3 +45,4 @@ Individual Goals
 - https://www.arm.com/glossary/iot-security
 - https://www.iotworldtoday.com/2021/09/17/iot-cyberattacks-escalate-in-2021-according-to-kaspersky/
 - https://www.wipro.com/business-process/what-can-iot-do-for-healthcare-/
+- https://ordr.net/article/iot-healthcare-examples/
