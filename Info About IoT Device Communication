@@ -1,0 +1,21 @@
+https://www.digi.com/blog/post/how-do-iot-devices-communicate
+
+When a device isn’t capable of running Internet Protocol (TCP/IP) directly, it will typically pass its messages to another device called a gateway. This gateway will process and forward messages to and from the Internet.
+
+Gateways help IoT devices stay small, battery-operated and inexpensive, because they typically handle multiple devices as a local base station. For example, here are some real-life scenarios:
+Wearable devices running Bluetooth/BLE often use a mobile phone as their gateway to the Internet. This works well as long as the phone and the devices are nearby each other.
+Home automation protocols such as Zigbee, Z-Wave and LoRaWAN can’t be handled by a mobile phone directly, nor would it make sense since mobile phones don’t stay in a fixed location. These protocols as well as proprietary ones typically use a gateway box plugged into wall power and either Ethernet, Wi-Fi or cellular. They receive information from devices using their native protocol, like Zigbee, process what they receive, and then forward it along over the Internet.
+Industrial environments, such as solar fields and wind farms require a hardened industrial gateway to route communications from devices distributed across the remote device network, as shown in the following illustration.
+
+https://embeddedams.nl/different-ways-to-connect-iot-devices-to-transmit-and-receive-data/
+
+Communication Methods
+RFID
+Wi-Fi
+Bluetooth
+BLE
+Zigbee
+HaLow
+Cellular
+Licensed LPWAN
+Unlicensed LPWAN
